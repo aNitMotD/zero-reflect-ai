@@ -97,6 +97,9 @@ Meta-level documentation describing repository structure and intent.
 - repo-structure.md  
   This document.
 
+- zr-max-decomposition.md  
+  Defines the maximum decomposition depth of ZR and its irreducible human boundary.
+
 ---
 
 ## examples/
