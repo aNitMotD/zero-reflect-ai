@@ -6,6 +6,9 @@ This document classifies a recurring cognitive pattern in which the creator of Z
 experiences an implicit sense of association, representation, or linkage between themselves
 and the publicly released tool.
 
+This edge case records a boundary condition where attribution effects may arise,
+serving only as a boundary marker and not as a behavioral or interpretive rule.
+
 This is a **reference / edge-case document**.  
 It does not define new ZR rules, constraints, or operating modes.
 
