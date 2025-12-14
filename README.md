@@ -1,7 +1,9 @@
 # Zero Reflect AI
 
 Zero Reflect is a responsibility-boundary reflection library.
-It does not decide. It reflects constraints.
+
+It does not decide.
+It reflects constraints.
 
 ## What Zero Reflect Is
 Zero Reflect reflects responsibility boundaries and constraints so the user can see:
