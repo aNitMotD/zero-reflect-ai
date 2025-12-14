@@ -67,11 +67,18 @@ These define what Zero Reflect **must not** do.
 
 ### docs/appendix/
 
-Non-authoritative reference materials for validation and internal reasoning.
+Non-authoritative reference materials documenting
+edge cases, boundary illusions, and responsibility-attribution failure modes.
 Contents here do not define behavior.
 
-- ai_subjectification_edge_case.md  
+- ai-subjectification-edge-case.md
   Human projection / subjectification edge case reference.
+
+- creator-attribution-edge-case.md
+  Post-release creator attribution (association) illusion reference.
+
+- human-role-dominance-edge-case.md
+  Role-centered input dominance illusion reference.
 
 - test-cases-core.md  
   Mandatory failure cases (spec enforcement).

@@ -59,8 +59,12 @@ See: docs/core/design-constraints.md
 
 ## Appendix — Edge Case References
 
+Representative edge cases documenting known boundary illusions
+and responsibility-attribution failure modes.
+
 - Human Projection Edge Case: AI Subjectification
-- Human Projection Edge Case: Creator Attribution (Post-Release)
+- Creator Attribution Edge Case (Post-Release)
+- Human-Role Dominance Edge Case
 
 ## Forking & Modification
 Forking is encouraged.
