@@ -5,10 +5,10 @@ ZR output determines whether downstream tools may execute.
 
 ZR silence or refusal is treated as a valid stop condition.
 
-ZR gating does not imply automation.
-Passing a gate does not transfer responsibility
-from the user to the system.
-
+Passing a ZR gate:
+- does not imply automation
+- does not imply approval or authorization
+- does not transfer responsibility from the user to the system
 
 ---
 

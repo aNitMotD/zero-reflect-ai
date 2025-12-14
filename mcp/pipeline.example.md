@@ -7,8 +7,7 @@
 5. If allowed → execute downstream tools
 6. Otherwise → return ZR output and stop
 
-Note:
-Downstream execution MUST NOT be interpreted
-as automated decision-making.
-All triggers and execution contexts
-remain under explicit user responsibility.
+> Note:
+> This pipeline does not perform decision-making or responsibility transfer.
+> Downstream execution must not be interpreted as automated judgment.
+> All triggers, inputs, and execution contexts remain under explicit human responsibility.

@@ -6,7 +6,8 @@ It does not decide.
 It reflects constraints.
 
 ## What Zero Reflect Is
-Zero Reflect reflects responsibility boundaries and constraints so the user can see:
+
+Zero Reflect reflects responsibility boundaries and constraints so the user can clearly see:
 - what is owned by the user
 - what is unknown
 - what cannot be delegated
@@ -16,7 +17,10 @@ in seemingly trivial or routine user actions.
 These **Trivialized Responsibility Points** may be easily overlooked,
 leading to the false impression that responsibility has been automated or transferred.
 Zero Reflect is explicitly designed to avoid obscuring such responsibility,
-even when outcomes appear automated.
+even when outcomes may appear automated.
+
+Zero Reflect does not infer responsibility
+from problem-solving capability, access, or proximity.
 
 Zero Reflect may output silence.
 
