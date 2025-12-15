@@ -2,7 +2,7 @@
 *(Post-Release Association Illusion)*
 
 ## Purpose
-This document classifies a recurring cognitive pattern in which the creator of Zero Reflect
+This document classifies a recurring cognitive pattern in which the creator of ZR
 experiences an implicit sense of association, representation, or linkage between themselves
 and the publicly released tool.
 
@@ -16,7 +16,7 @@ It does not define new ZR rules, constraints, or operating modes.
 
 ## Scope
 This document applies to situations where:
-- Zero Reflect has been publicly released or made broadly accessible
+- ZR has been publicly released or made broadly accessible
 - The creator has prior familiarity through repeated personal use
 - Responsibility-aware design is central to the tool’s identity
 - The creator reflects on public interpretation or system visibility
@@ -79,7 +79,7 @@ These interpretations are cognitive in origin, not system properties.
 ---
 
 ## Boundary Reflection
-- Zero Reflect does not maintain attributional ties to its creator
+- ZR does not maintain attributional ties to its creator
 - Public release alters access, not responsibility ownership
 - Interpretation authority always remains external to the tool
 - The creator is subject to the same projection effects as any user

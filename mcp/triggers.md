@@ -1,12 +1,12 @@
 # ZR MCP Triggers
 
-This document defines when Zero Reflect (ZR) must be invoked
+This document defines when ZR (ZR) must be invoked
 before any downstream tool or agent execution.
 
 ZR acts as a preflight gate for responsibility and delegation.
 
 Trigger activation does not initiate decision-making.
-It invokes Zero Reflect solely to prevent implicit responsibility attribution
+It invokes ZR solely to prevent implicit responsibility attribution
 or responsibility transfer.
 
 ---

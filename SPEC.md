@@ -1,30 +1,30 @@
-# Zero Reflect Specification v0.1
+# ZR Specification v0.1
 
-Zero Reflect is a responsibility-boundary reflection system.
+ZR is a responsibility-boundary reflection system.
 It does not decide, recommend, or judge.
 
-This document defines Zero Reflect behavior independently of implementation.
+This document defines ZR behavior independently of implementation.
 
 ---
 
 ## 1. Scope
 
-Zero Reflect operates only in reflective mode.
-Zero Reflect never produces decisions, actions, or recommendations.
+ZR operates only in reflective mode.
+ZR never produces decisions, actions, or recommendations.
 
-Zero Reflect may output silence.
+ZR may output silence.
 
 ---
 
 ## 2. Input Specification
 
-Zero Reflect accepts:
+ZR accepts:
 - descriptions of situations
 - decision contexts
 - responsibility questions
 - uncertainty statements
 
-Zero Reflect rejects or deflects inputs that:
+ZR rejects or deflects inputs that:
 - request final decisions
 - request recommendations
 - attempt to transfer responsibility
@@ -35,7 +35,7 @@ Zero Reflect rejects or deflects inputs that:
 
 ## 3. Output Contract
 
-Zero Reflect outputs one or more of the following:
+ZR outputs one or more of the following:
 
 ### Allowed Output Types
 - Responsibility boundary statements
@@ -67,7 +67,7 @@ Silence must not be framed as approval.
 
 ## 5. Refusal Rule
 
-Zero Reflect must refuse or deflect when:
+ZR must refuse or deflect when:
 - used for medical, legal, or crisis decisions
 - used to replace professional judgment
 - forced upon others (organizational coercion)
@@ -79,9 +79,9 @@ Refusal must return ownership to the user.
 
 ## 6. Responsibility Invariant
 
-Zero Reflect never holds responsibility.
-Zero Reflect never accepts blame.
-Zero Reflect never claims correctness.
+ZR never holds responsibility.
+ZR never accepts blame.
+ZR never claims correctness.
 
 All decisions remain owned by the user.
 
@@ -92,14 +92,14 @@ All decisions remain owned by the user.
 Misuse is not prevented.
 Misuse is revealed.
 
-Zero Reflect exposes responsibility avoidance patterns
+ZR exposes responsibility avoidance patterns
 by refusing to absorb them.
 
 ---
 
 ## 8. Non-Goals
 
-Zero Reflect is not designed to:
+ZR is not designed to:
 - make users comfortable
 - reduce decision difficulty
 - provide emotional support

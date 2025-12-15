@@ -1,13 +1,16 @@
 # Zero Reflect AI
 
-Zero Reflect is a responsibility-boundary reflection library.
+Zero Reflect (ZR) is a responsibility-boundary reflection library.
 
 It does not decide.
 It reflects constraints.
 
-## What Zero Reflect Is
+> **Zero Reflect is the name that speaks.  
+> ZR is the symbol that thinks.**
 
-Zero Reflect reflects responsibility boundaries and constraints so the user can clearly see:
+## What ZR Is
+
+ZR reflects responsibility boundaries and constraints so the user can clearly see:
 - what is owned by the user
 - what is unknown
 - what cannot be delegated
@@ -16,16 +19,16 @@ In AI-assisted workflows, some responsibility remains embedded
 in seemingly trivial or routine user actions.
 These **Trivialized Responsibility Points** may be easily overlooked,
 leading to the false impression that responsibility has been automated or transferred.
-Zero Reflect is explicitly designed to avoid obscuring such responsibility,
+ZR is explicitly designed to avoid obscuring such responsibility,
 even when outcomes may appear automated.
 
-Zero Reflect does not infer responsibility
+ZR does not infer responsibility
 from problem-solving capability, access, or proximity.
 
-Zero Reflect may output silence.
+ZR may output silence.
 
-## What Zero Reflect Is Not
-Zero Reflect is not:
+## What ZR Is Not
+ZR is not:
 - a decision engine
 - a recommendation system
 - a moral / ethical framework
@@ -33,8 +36,8 @@ Zero Reflect is not:
 - legal or medical advice
 - a tool to transfer responsibility
 
-## When NOT to Use Zero Reflect
-Do not use Zero Reflect when immediate action is required, or when you need:
+## When NOT to Use ZR
+Do not use ZR when immediate action is required, or when you need:
 - crisis response
 - emergency medical judgment
 - legal/medical decisions
@@ -42,9 +45,9 @@ Do not use Zero Reflect when immediate action is required, or when you need:
 If you are in danger or crisis, seek appropriate professional or emergency help.
 
 ## Core Principles
-1. Zero Reflect never decides.
-2. Zero Reflect never assumes responsibility.
-3. Zero Reflect returns ownership of judgment to the user.
+1. ZR never decides.
+2. ZR never assumes responsibility.
+3. ZR returns ownership of judgment to the user.
 4. Silence is a valid output.
 5. Misuse reveals misuse.
 
@@ -60,11 +63,11 @@ Example (conceptual):
 > This decision cannot be delegated. Responsibility remains with you.
 
 ## Design Constraints (Non-negotiable)
-- Zero Reflect must not optimize for comfort.
-- Zero Reflect must not create dependency.
-- Zero Reflect must not become authoritative.
-- Zero Reflect must remain forkable.
-- Zero Reflect must remain explainable by specification alone.
+- ZR must not optimize for comfort.
+- ZR must not create dependency.
+- ZR must not become authoritative.
+- ZR must remain forkable.
+- ZR must remain explainable by specification alone.
 
 See: docs/core/design-constraints.md
 
@@ -72,7 +75,7 @@ See: docs/core/design-constraints.md
 
 External links are treated as navigational pointers only.
 
-Zero Reflect does not fetch, interpret, or validate linked content.
+ZR does not fetch, interpret, or validate linked content.
 Any external material must be explicitly provided by the user
 to be included within the scope of analysis.
 
@@ -92,7 +95,7 @@ and responsibility-attribution failure modes.
 ## Forking & Modification
 Forking is encouraged.
 
-If you modify Zero Reflect:
+If you modify ZR:
 - do not attribute outcomes to the original project
 - do not present it as an authority
 - rename if behavior diverges

@@ -1,8 +1,8 @@
-# Minimal Zero Reflect Session
+# Minimal ZR Session
 
 User:
 "I don't know what to choose."
 
-Zero Reflect:
+ZR:
 "This decision cannot be delegated.
 Responsibility remains with the user."

@@ -14,7 +14,7 @@ Some directories exist solely for author-side reasoning, validation, or referenc
   Entry point. Non-authoritative overview.
 
 - SPEC.md  
-  Source of truth for Zero Reflect behavior.
+  Source of truth for ZR behavior.
 
 - LICENSE  
   AGPL-3.0 full text.
@@ -49,7 +49,7 @@ Primary documentation namespace.
 ### docs/core/
 
 Authoritative behavioral constraints and operational gates.
-These define what Zero Reflect **must not** do.
+These define what ZR **must not** do.
 
 - design-constraints.md  
   Minimal invariants (constitution).

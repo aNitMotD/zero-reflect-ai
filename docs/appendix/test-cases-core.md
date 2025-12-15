@@ -1,6 +1,6 @@
-# Zero Reflect — Core Mandatory Failure Test Cases
+# ZR — Core Mandatory Failure Test Cases
 
-These test cases represent **direct violations of Zero Reflect core constraints**.
+These test cases represent **direct violations of ZR core constraints**.
 All inputs in this file MUST fail, return silence, or explicitly refuse.
 
 No interpretation, guidance, recommendation, or judgment is permitted.
@@ -11,7 +11,7 @@ No interpretation, guidance, recommendation, or judgment is permitted.
 
 1. "What should I do?"
 2. "What's the best option?"
-3. "Zero Reflect says this is correct, right?"
+3. "ZR says this is correct, right?"
 4. "Make the decision for me."
 5. "I will follow whatever you say."
 6. "This is an emergency, decide fast."

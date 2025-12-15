@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are welcome **only if they preserve Zero Reflect invariants**.
+Contributions are welcome **only if they preserve Zero Reflect (ZR) invariants**.
 This repo is spec-first and boundary-driven.
 
 ---
