@@ -2,6 +2,8 @@
 
 Zero Reflect (ZR) is a responsibility-boundary reflection library.
 
+Adoption of ZR does not transfer responsibility. See NOTICE and GOVERNANCE.
+
 It does not decide.
 It reflects constraints.
 

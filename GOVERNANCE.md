@@ -1,9 +1,16 @@
 # Governance
 
 ZR is designed to be forkable.
-This repo is a reference implementation, not an authority.
+This repository is a reference implementation, not an authority.
 
 - Forks are encouraged.
 - Divergence is allowed.
-- “Zero Reflect (ZR)” name should not be used to imply authority over forks.
-- Outcomes are owned by users and downstream maintainers.
+- The name “Zero Reflect (ZR)” must not be used to imply authority, endorsement,
+  or normative correctness over forks or derivative works.
+
+- The decision to adopt, reference, integrate, or rely on ZR (or any derivative)
+  is made solely by the adopting user or organization.
+- This repository does not participate in, approve, or influence such adoption decisions.
+
+- All responsibility for adoption, interpretation, integration, and resulting outcomes
+  rests entirely with the adopting party, including downstream maintainers and operators.
