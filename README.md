@@ -112,3 +112,20 @@ Forks may diverge by design.
 
 ## License
 See LICENSE.
+
+## ZR Licensing Overview (TL;DR)
+
+This repository is open-source and forkable.
+
+ZR licensing does **not** govern code usage.
+It defines **how ZR-based systems may be used or implemented** at a system level.
+
+- Code usage is governed by the open-source license.
+- ZR licenses govern scopes of use, implementation, and exclusivity.
+- ZR licenses do **not** transfer ownership, authority, or methodology.
+- Internal knowledge–instruction composition is never licensed.
+
+See:
+- GOVERNANCE.md
+- NOTICE.md
+- LICENSE-CLASSES.md
